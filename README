@@ -18,7 +18,6 @@ You need to download and run the vendor initialize script.
     [See Notes for more info]
 
 
-2. Downloads the RaspberryPi specific local manifest.
   
 
 Then to sync up:
@@ -39,6 +38,8 @@ The vendorinit.sh Script carries out 2 tasks
 
 repo init -u git://github.com/androidarmv6/android.git -b cm-11.0
 
+
+2. Downloads the RaspberryPi specific local manifest.
 
 Disclaimer
 --------
